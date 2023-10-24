@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dang</h1>
-<p>Currently, I am working as a Software/Data Engineer</p>
-<p align="center">🔭 😄 👯 🤔 🌱</p>
+<p align="center">Currently, I am working as a Software/Data Engineer</p>
+
 
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
